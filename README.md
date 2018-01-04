@@ -5,7 +5,7 @@ This is a test
 
 ### Menu ###
  * [Introduction]()
- * [Data Science](https://github.com/dsg-brique/dsg-brique.github.io/dsg.md)
+ * [Data Science](./organization/dsg.md)
  * [BRIQUE Analysis]
  * [Product]
  * [Organization]
