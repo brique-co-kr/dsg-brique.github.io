@@ -2,8 +2,8 @@ This is data science
 -------------------
 
 ### Case Study ###
- * [Industry](./case_study/industry.md)
- * [Marketing](./case_study/marketing.md)
+ * [Industry](./case_study/industry/industry.md)
+ * [Marketing](./case_study/marketing/marketing.md)
 
 ### Science ###
  * [Data Preprocessing](./science/data_preprocessing/data_preprocessing.md)
