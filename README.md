@@ -4,11 +4,11 @@ This is a test
 --------------
 
 ### Menu ###
- * [Introduction]()
- * [Data Science](./organization/dsg.md)
+ * [Introduction](./introduction/intro.md)
+ * [Data Science](./data_science/data_science.md)
  * [BRIQUE Analysis]
  * [Product]
- * [Organization]
+ * [Organization](./organization/organization.md)
  * [Site map]
  
 menu
