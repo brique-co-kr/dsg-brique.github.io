@@ -481,12 +481,10 @@ public class APIServerConfig extends ResourceServerConfigurerAdapter {
 ```
 [Client Credentials]
 curl -H "Accept: application/json" my-client-with-secret:secret@localhost:8080/oauth/token -d grant_type=client_credentials
-```
-```
+
 [Resource Owner Password (Trusted Client)]
 curl -u my-trusted-client: http://localhost:8080/oauth/token -d "grant_type=password&username=user&password=password"
-```
-```
+
 [Authorization Code (인가코드 승인)]
 1. http://localhost:8080/oauth/authorize?client_id=my-client-with-registered-redirect&response_type=code
 2. curl -u my-client-with-registered-redirect: http://localhost:8080/oauth/token -d "grant_type=authorization_code&code=코드값“
