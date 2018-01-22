@@ -1,2 +1,2 @@
 This is EDA 
-PLS [example](./PLS.md "title")
+PLS [PLS](./PLS.md "title")
