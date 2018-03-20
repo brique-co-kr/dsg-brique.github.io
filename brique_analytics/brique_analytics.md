@@ -7,4 +7,4 @@
 4. You can make your own products based on our API service.
 
 
-![Composition of BRIQUE Analytics](https://dsg-brique.github.io/brique_analytics/ba_composition.PNG)
+![Composition of BRIQUE Analytics](ba_composition.PNG)
