@@ -1,6 +1,5 @@
 ## No more uncertainty!
 
-
 ## Try to use BRIQUE Analytics
 1. You can easily use analysis tools based on GUI environment.
 2. You can implement your own algorithm with multiple language support.
@@ -18,6 +17,9 @@
 
 ### Basic and user-defined analysis library
 #### Basic library
+You can use more than 1,000 library and make your workflow based on them.
+#### Favorate workflow
+
 #### User-defined library
 You can make your own library with R or Python script
 
