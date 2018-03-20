@@ -1,6 +1,6 @@
 # No more uncertainty!
 
-### Try to use BRIQUE Analytics
+## Try to use BRIQUE Analytics
 1. You can easily use analysis tools based on GUI environment.
 2. You can implement your own algorithm with multiple language support.
 3. You can increase computing performance with our distributed system.
@@ -8,3 +8,13 @@
 
 
 ![Composition of BRIQUE Analytics](ba_composition.PNG)
+
+
+## Advantages
+### GUI based analysis tool
+
+### Multiple language support
+
+### Distributed system and Hardware acceleration
+
+### API service for data analysis
