@@ -12,19 +12,20 @@
 
 ## Advantages
 
-### GUI based analysis tool
-![Workflow](ba_workflow.PNG)
+### 1. GUI based analysis tool
+![Workflow](ba_workflow.png)
 
-### Basic and user-defined analysis library
-#### Basic library
-You can use more than 1,000 library and make your workflow based on them.
-#### Favorate workflow
+### 2. Basic and user-defined analysis library
+#### Basic node
+You can make your workflow based on more than 100 basic nodes.
+#### Workflow reference
+You can utilize preregistered workflows.
 
-#### User-defined library
+### 3. User-defined library
 You can make your own library with R or Python script
 
-### Multiple language support
+### 4. Multiple language support
 
-### Distributed system and Hardware acceleration
+### 5. Distributed system and Hardware acceleration
 
-### API service for data analysis
+### 6. API service for data analysis
