@@ -4,7 +4,7 @@
 We live in an increasingly data-driven society, in which information is becoming as much of a currency as money. Many companies want to gain bisiness insight from digital resources to solve business challenges and create competitive advantage. 
 However, it is not easy to achieve it. First of all, actionable data should be defined, organized and analyzed, moreover, these kind of tasks could be time consuming and need expertise.
 
-BRIQUE Analytics is a anlysis solution that help to achieve the above mentioned. You can easily gather and anlyze data with graphical tools that BRIQUE provides as default or are shared by other data scientist.
+BRIQUE Analytics is a anlysis solution that help to achieve the above mentioned. You can easily gather and analyze data with graphical tools that BRIQUE provides as default or are shared by other data scientist.
 
 ![Composition](ba_composition.PNG)
 
