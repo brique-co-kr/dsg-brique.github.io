@@ -33,7 +33,7 @@ BRIQUE Analytics currently support R, Python, Scala, Java, C/C++. You have to us
 [example]
 
 ### 4. Distributed system and Hardware acceleration for system administrators
-BRIQUE Analytics is designed for distributed systems
+BRIQUE Analytics is designed for distributed systems from the beginning. You can monitor system status and optimize resources with BRIQUE Analytics dashboard.
 [example]
 
 1. You can easily use analysis tools based on GUI environment.
