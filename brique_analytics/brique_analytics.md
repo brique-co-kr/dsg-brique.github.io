@@ -12,11 +12,11 @@ BRIQUE Analytics is a anlysis solution that help to achieve the above mentioned.
 ## Advantages
 
 ### 1. GUI based analysis tool
-You can turn your ideas into solutions faster without complicated codes. You can focus on not language grammar but your logic itself. BRIQUE Analytics provides graphical environment for analysis. It is much more intuitive and easy to use.
+You can turn your ideas into solutions faster without complicated codes. You can focus on not language grammar but your logic itself with graphical environment for data analysis which is much more intuitive, productive, and easy to use.
 
 ### 2. Analysis libraries and workflows
 #### Basic
-You can make your workflow based on more than 100 basic nodes.
+BRIQUE Analytics provides more than 100 basic libraries with which you can create most of data analysis flows. Moreover, you can refer and modify basic workflows that will be helpful to speed up your productivity.
 #### User defined
 You can utilize preregistered workflows.
 
