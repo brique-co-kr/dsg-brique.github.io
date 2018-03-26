@@ -11,24 +11,30 @@ BRIQUE Analytics is a anlysis solution that help to achieve the above mentioned.
 
 ## Advantages
 
-### 1. GUI based analysis tool
+### 1. GUI based analysis tool for data scientists
 You can turn your ideas into solutions faster without complicated codes. You can focus on not language grammar but your logic itself with graphical environment for data analysis which is much more intuitive, productive, and easy to use.
+[example]
 
-### 2. Analysis libraries and workflows
+### 2. Analysis libraries and workflows for data scientists
 #### Basic
 BRIQUE Analytics provides more than 100 basic libraries with which you can create most of data analysis flows. Moreover, you can refer and modify basic workflows that will be helpful to speed up your productivity.
+[example]
 #### User defined
-You can utilize preregistered workflows.
+You can implement your own algorithm and utilize it with multiple language support if you are an expert in programming. Most popular language is "R" that is compatible with BRIQUE Analytics.
+[example]
 
-### 3. User-defined library
-You can make your own library with R or Python script
+### 3. Multiple language support for data scientists and developers
+BRIQUE Analytics currently support R, Python, Scala, Java, C/C++. You have to use our packages and libraries to use Java and C/C++.
 
-### 4. Multiple language support
+### 6. API service for data analysis for developers and service providers
+[example]
 
-### 5. Distributed system and Hardware acceleration
+### 5. Ready to realtime analysis for service providers
+[example]
 
-### 6. API service for data analysis
-
+### 4. Distributed system and Hardware acceleration for system administrators
+BRIQUE Analytics is designed for distributed systems
+[example]
 
 1. You can easily use analysis tools based on GUI environment.
 2. You can implement your own algorithm with multiple language support.
