@@ -6,9 +6,6 @@ However, it is not easy to achieve it. First of all, actionable data should be d
 
 BRIQUE Analytics is a anlysis solution that help to achieve the above mentioned. You can easily gather and analyze data with graphical tools that BRIQUE provides as default or shared by other data scientist.
 
-![Composition](ba_composition.PNG)
-
-
 ## Advantages
 
 ### 1. GUI based analysis tool for data scientists
