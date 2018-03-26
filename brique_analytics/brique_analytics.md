@@ -26,7 +26,7 @@ You can implement your own algorithm and utilize it with multiple language suppo
 ### 3. Multiple language support for data scientists and developers
 BRIQUE Analytics currently support R, Python, Scala, Java, C/C++. You have to use our packages and libraries to use Java and C/C++.
 
-### 6. API service for data analysis for developers and service providers
+### 4. API service for data analysis for developers and service providers
 You can make and provide your own data analysis service throughout our analytics cite after registration of your developer account.
 [example]
 
@@ -34,7 +34,7 @@ You can make and provide your own data analysis service throughout our analytics
 You can embedd data analysis functions to your system with BRIQUE Analytics's virtual environment.
 [example]
 
-### 4. Distributed system and Hardware acceleration for system administrators
+### 6. Distributed system and Hardware acceleration for system administrators
 BRIQUE Analytics is designed for distributed systems from the beginning. You can monitor system status and optimize resources with BRIQUE Analytics dashboard.
 [example]
 
